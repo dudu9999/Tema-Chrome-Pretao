@@ -1,4 +1,4 @@
-# Oswald
+# Pretão
 
 Esse é um tema para google chrome que 
 desenvolvi apartir do tema do proprio 
